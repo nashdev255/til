@@ -1,2 +1,8 @@
 # TIL
-### Today I Learned
+> Today I Learned
+
+### Categories
+
+* [Rust](#rust)
+
+### Rust
