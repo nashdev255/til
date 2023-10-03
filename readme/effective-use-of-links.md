@@ -1,6 +1,6 @@
 # Effective use of links
 Comfortable documents are made with convenient links.
-In GitHub, we can search # tags. So good structure will make it easy to read.
+In GitHub, we can search # tags, so good structure will make it easy to read.
 
 This is the template of readme which has good structure at least.
 ```:
